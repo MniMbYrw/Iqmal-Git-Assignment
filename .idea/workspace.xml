@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="idk">
-      <change afterPath="$PROJECT_DIR$/Iqmal.py" afterDir="false" />
+    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="added Emily.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Emily.py" beforeDir="false" afterPath="$PROJECT_DIR$/Emily.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iqmal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iqmal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680808224372</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added rect_area, rect_surface_area fxs">
+      <created>1680982947430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680982947430</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added Emily.py">
+      <created>1680983222542</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680983222542</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idk" />
-    <option name="LAST_COMMIT_MESSAGE" value="idk" />
+    <MESSAGE value="added rect_area, rect_surface_area fxs" />
+    <MESSAGE value="added Emily.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Emily.py" />
   </component>
 </project>

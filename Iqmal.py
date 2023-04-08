@@ -1,13 +1,9 @@
 # Iqmal
-# function to calculate area of rectangle give length and width
-def rect_area(length, width):
-    return length * width
-
-# as test
-# print(rect_area(5, 4))
-
-
 # function to calculate area of rectangular prism
+
+from Emily import rect_area
+
+
 def rect_surface_area(length, width, height):
     area_1 = rect_area(length, width)
     area_2 = rect_area(width, height)
