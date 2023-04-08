@@ -5,12 +5,12 @@ from Emily import rect_area
 
 
 def rect_surface_area(length, width, height):
-    area_1 = rect_area(length, width)
-    area_2 = rect_area(width, height)
-    area_3 = rect_area(length,height)
+    area_lw = rect_area(length, width)
+    area_wh = rect_area(width, height)
+    area_hl = rect_area(length,height)
     # for test
-    # print(area_3, area_2, area_1)
-    return 2 * ( area_1 + area_2 + area_3)
+    # print(area_lw, area_wh, area_hl)
+    return 2 * (area_lw + area_wh + area_hl)
 
 # as test
 # print(rect_surface_area(5, 4, 3))
