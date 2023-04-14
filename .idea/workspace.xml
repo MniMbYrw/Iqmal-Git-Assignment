@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="make week 2 py file" />
+    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="add show to see figure">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681490661766</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add show to see figure">
+      <created>1681492145015</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681492145015</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +157,7 @@
     <MESSAGE value="refactored area names" />
     <MESSAGE value="area_hl swap parameter inputs to match name" />
     <MESSAGE value="make week 2 py file" />
-    <option name="LAST_COMMIT_MESSAGE" value="make week 2 py file" />
+    <MESSAGE value="add show to see figure" />
+    <option name="LAST_COMMIT_MESSAGE" value="add show to see figure" />
   </component>
 </project>
