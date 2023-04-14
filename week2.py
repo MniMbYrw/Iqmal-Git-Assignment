@@ -9,3 +9,4 @@ explodelist = [0.1, 0.0, 0.0, 0.0]
 plot.pie(numlist, labels=namelist, autopct='%.2f%%', colors=colorlist, explode=explodelist, startangle=90)
 plot.axis('equal')
 plot.savefig('piechart.png')
+plot.show()
