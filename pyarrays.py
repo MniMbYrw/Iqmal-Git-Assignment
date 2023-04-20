@@ -16,3 +16,7 @@ print(total)
 # print mean of each row
 row_mean = np.mean(array, axis=1)
 print(row_mean)
+
+# print max value in each column
+col_max = np.max(array, axis=0)
+print(col_max)
