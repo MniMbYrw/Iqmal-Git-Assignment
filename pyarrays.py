@@ -8,3 +8,7 @@ print(array)
 
 # print second row third column
 print(array[1, 2])
+
+# print sum of full array
+total = np.sum(array)
+print(total)
