@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="added index request of array: 2nd row, 3rd col" />
+    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="add print sum of array">
+      <change beforePath="$PROJECT_DIR$/pyarrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyarrays.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682012955965</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add print sum of array">
+      <created>1682013243020</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682013243020</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +188,7 @@
     <MESSAGE value="change pie parameters" />
     <MESSAGE value="add piechart.png to git; initial pyarrays.py" />
     <MESSAGE value="added index request of array: 2nd row, 3rd col" />
-    <option name="LAST_COMMIT_MESSAGE" value="added index request of array: 2nd row, 3rd col" />
+    <MESSAGE value="add print sum of array" />
+    <option name="LAST_COMMIT_MESSAGE" value="add print sum of array" />
   </component>
 </project>

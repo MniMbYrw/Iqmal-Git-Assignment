@@ -12,3 +12,7 @@ print(array[1, 2])
 # print sum of full array
 total = np.sum(array)
 print(total)
+
+# print mean of each row
+row_mean = np.mean(array, axis=1)
+print(row_mean)
