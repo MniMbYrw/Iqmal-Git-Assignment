@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="add print sum of array">
-      <change beforePath="$PROJECT_DIR$/pyarrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyarrays.py" afterDir="false" />
+    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="expand random value range in array">
+      <change afterPath="$PROJECT_DIR$/WFQ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +162,28 @@
       <option name="project" value="LOCAL" />
       <updated>1682013243020</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add row_mean">
+      <created>1682013550433</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682013550433</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add col_max">
+      <created>1682013698356</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682013698356</updated>
+    </task>
+    <task id="LOCAL-00016" summary="expand random value range in array">
+      <created>1682013740025</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682013740025</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +211,9 @@
     <MESSAGE value="add piechart.png to git; initial pyarrays.py" />
     <MESSAGE value="added index request of array: 2nd row, 3rd col" />
     <MESSAGE value="add print sum of array" />
-    <option name="LAST_COMMIT_MESSAGE" value="add print sum of array" />
+    <MESSAGE value="add row_mean" />
+    <MESSAGE value="add col_max" />
+    <MESSAGE value="expand random value range in array" />
+    <option name="LAST_COMMIT_MESSAGE" value="expand random value range in array" />
   </component>
 </project>
