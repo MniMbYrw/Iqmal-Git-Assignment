@@ -24,4 +24,16 @@ for x in lines:
         economy.append(x.strip('E \n'))
 print(premium, standard, economy)
 
+# print to priority scheme
+# check that queues are not empty
+while len(premium) > 0 or len(standard) > 0 or len(economy) > 0:
+    for x in range(3):  # 3 in a row
+        if len(premium) != 0:
+            print(premium.pop(0))
+    for x in range(2):  # 2 in a row
+        if len(standard) != 0:
+            print(standard.pop(0))
+    if len(economy) != 0:  # once
+        print(economy.pop(0))
+
 f.close()

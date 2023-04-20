@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="initialize WFQ">
+    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="initialize priority queues and fill them">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WFQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/WFQ.py" afterDir="false" />
     </list>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682021403702</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="initialize priority queues and fill them">
+      <created>1682022844188</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1682022844188</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +229,7 @@
     <MESSAGE value="add col_max" />
     <MESSAGE value="expand random value range in array" />
     <MESSAGE value="initialize WFQ" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize WFQ" />
+    <MESSAGE value="initialize priority queues and fill them" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialize priority queues and fill them" />
   </component>
 </project>
