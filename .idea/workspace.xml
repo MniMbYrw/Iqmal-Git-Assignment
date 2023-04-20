@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="expand random value range in array">
-      <change afterPath="$PROJECT_DIR$/WFQ.py" afterDir="false" />
+    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="initialize WFQ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WFQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/WFQ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682013740025</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="initialize WFQ">
+      <created>1682021403702</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682021403702</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +221,7 @@
     <MESSAGE value="add row_mean" />
     <MESSAGE value="add col_max" />
     <MESSAGE value="expand random value range in array" />
-    <option name="LAST_COMMIT_MESSAGE" value="expand random value range in array" />
+    <MESSAGE value="initialize WFQ" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialize WFQ" />
   </component>
 </project>
