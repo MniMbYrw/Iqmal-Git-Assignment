@@ -6,7 +6,7 @@
 # Then print 1 Economy packet until economy queue is empty
 
 # space with file
-f = open("C:/Users/iqmal/Documents/School/S23/CS162/input queue.txt", 'r')
+f = open("input_queue.txt", 'r')
 lines = f.readlines()
 print(lines)
 # initialize priority queues
