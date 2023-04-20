@@ -3,7 +3,7 @@
 import numpy as np
 
 # make random 5x5 array and print it
-array = np.random.randint(0, 9, size=(5, 5), dtype=int)
+array = np.random.randint(0, 999, size=(5, 5), dtype=int)
 print(array)
 
 # print second row third column
