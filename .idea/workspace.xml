@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="change pie parameters" />
+    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="add piechart.png to git; initial pyarrays.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681492754716</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add piechart.png to git; initial pyarrays.py">
+      <created>1682012745453</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682012745453</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +170,7 @@
     <MESSAGE value="make week 2 py file" />
     <MESSAGE value="add show to see figure" />
     <MESSAGE value="change pie parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="change pie parameters" />
+    <MESSAGE value="add piechart.png to git; initial pyarrays.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add piechart.png to git; initial pyarrays.py" />
   </component>
 </project>
