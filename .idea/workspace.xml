@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="shortestpath.py initialized">
-      <change afterPath="$PROJECT_DIR$/sql exercise 1.py" afterDir="false" />
+    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="create sql exercise 1 &amp; db">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql exercise 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql exercise 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +27,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2O46YDn4ymiTcZ16T1cr89qgDTL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/iqmal/PycharmProjects/Git-Assignment&quot;,
@@ -251,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682894985737</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="create sql exercise 1 &amp; db">
+      <created>1683317537383</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1683317537383</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +277,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="idk" />
     <MESSAGE value="added rect_area, rect_surface_area fxs" />
     <MESSAGE value="added Emily.py" />
@@ -288,6 +300,7 @@
     <MESSAGE value="add input_queue.txt to git" />
     <MESSAGE value="change file path to internal input_queue.txt" />
     <MESSAGE value="shortestpath.py initialized" />
-    <option name="LAST_COMMIT_MESSAGE" value="shortestpath.py initialized" />
+    <MESSAGE value="create sql exercise 1 &amp; db" />
+    <option name="LAST_COMMIT_MESSAGE" value="create sql exercise 1 &amp; db" />
   </component>
 </project>
