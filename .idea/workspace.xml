@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="create sql exercise 1 &amp; db">
+    <list default="true" id="83f5ab9b-052b-4d48-806a-57fac37e9b4d" name="Changes" comment="exercise 2 sql db">
+      <change afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql exercise 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql exercise 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Iqmal">
     <configuration name="Iqmal" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683317537383</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="exercise 2 sql db">
+      <created>1683832914930</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1683832914930</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,6 +309,7 @@
     <MESSAGE value="change file path to internal input_queue.txt" />
     <MESSAGE value="shortestpath.py initialized" />
     <MESSAGE value="create sql exercise 1 &amp; db" />
-    <option name="LAST_COMMIT_MESSAGE" value="create sql exercise 1 &amp; db" />
+    <MESSAGE value="exercise 2 sql db" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 2 sql db" />
   </component>
 </project>
